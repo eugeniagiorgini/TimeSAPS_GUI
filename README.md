@@ -3,6 +3,7 @@ Author: Eugenia Giorgini (eugenia.giorgini@unibo.it)
 Affiliation: University of Bologna, University of Rome
 
 GNU v3 LICENSE
+TimeSAPS Copyright (C) 2024 Eugenia Giorgini, University of Bologna
 
 The same tool is provided in the .mlappinstall and in the .m format.
 .mlappinstall
